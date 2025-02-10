@@ -42,6 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Website - Afham Haleema (https://www.your-site.com)
+-  Afham Haleema 
 
 
